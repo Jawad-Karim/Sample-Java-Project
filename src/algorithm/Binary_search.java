@@ -28,7 +28,7 @@ public class Binary_search {
 	}
 
 	public static void main(String[] args) {
-		searchItem(100);
+		searchItem(20);
 
 	}
 }
